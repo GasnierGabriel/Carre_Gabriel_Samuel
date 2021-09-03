@@ -5,11 +5,12 @@ https://cython.readthedocs.io
 
 Merci de lancer le programme main.py dans une invite de commande.
 
-Arguments du programme:
-  -w ou --with-cython : pour lancer avec cython
-  -f ou --file: pour donner un fichier .map (3 sont disponibles)
-  -r ou --print-result: pour afficher le résultat sous la forme de grille ( visuelle)
-  -c ou --print-coordinates pour afficher les coordonnées
-  -t ou --test pour passer en mode test
+Arguments du programme:.
+  -w ou --with-cython : pour lancer avec cython.
+  -f ou --file: pour donner un fichier .map (3 sont disponibles).
+  -r ou --print-result: pour afficher le résultat sous la forme de grille ( visuelle).
+  -c ou --print-coordinates pour afficher les coordonnées.
+  -t ou --test pour passer en mode test.
 
 Par exemple: python main.py -f file1.map -r
+.
